@@ -1,13 +1,7 @@
 More Shortswords adds new shortsswords that can be crafted with vanilla workbenches.
 
-- 0.1.3
-Reworked all of the textures.
-
-- 0.1.2
-Hallowed Shortsword is now craftable and no longer unused.
-
-- 0.1.1
-Reworked the Terra Sword and the Solar Sword
-The Terra Sword now is insanely fast (Use Speed=1). Damage is really lower, tough.
-The Solar Sword is now a tanky shortsword that has slow speed, but really high damage
-Added the currently unused Hallowed Shortsword.
+- 0.2.0
+Added Hardmode Ore Shortswords.
+Rebalanced ALL weapons in the game.
+Resprited the Chlorophyte Dagger
+Textures of the Hardmode Ore Shortswords are subject to change
