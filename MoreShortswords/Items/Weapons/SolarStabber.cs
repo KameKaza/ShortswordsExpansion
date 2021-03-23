@@ -13,18 +13,19 @@ namespace MoreShortswords.Items.Weapons
 
 		public override void SetDefaults() 
 		{
-			item.damage = 1000;
+			item.damage = 689;
 			item.melee = true;
 			item.width = 15;
 			item.height = 15;
-			item.useTime = 40;
-			item.useAnimation = 40;
+			item.useTime = 28;
+			item.useAnimation = 28;
 			item.useStyle = 3;
-			item.knockBack = 8;
+			item.knockBack = 10;
 			item.value = 200000;
 			item.rare = 9;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
+			item.crit = 9;
 		}
 
 		public override void AddRecipes() 

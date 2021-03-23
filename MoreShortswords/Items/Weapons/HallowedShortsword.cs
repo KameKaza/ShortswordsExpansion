@@ -12,14 +12,14 @@ namespace MoreShortswords.Items.Weapons
 
 		public override void SetDefaults()
 		{
-			item.damage = 67;
+			item.damage = 89;
 			item.melee = true;
 			item.width = 15;
 			item.height = 15;
-			item.useTime = 18;
-			item.useAnimation = 18;
+			item.useTime = 16;
+			item.useAnimation = 16;
 			item.useStyle = 3;
-			item.knockBack = 4;
+			item.knockBack = 3;
 			item.value = 40000;
 			item.rare = 5;
 			item.UseSound = SoundID.Item1;

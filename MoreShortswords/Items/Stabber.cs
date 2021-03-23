@@ -9,22 +9,23 @@ namespace MoreShortswords.Items
 		{
 			DisplayName.SetDefault("Terra Sword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
 			Tooltip.SetDefault("A magic, fast blade.");
+			// This
 		}
 
 		public override void SetDefaults() 
 		{
-			item.damage = 25;
+			item.damage = 207;
 			item.melee = true;
 			item.width = 15;
 			item.height = 15;
-			item.useTime = 1;
-			item.useAnimation = 1;
+			item.useTime = 9;
+			item.useAnimation = 9;
 			item.useStyle = 3;
-			item.knockBack = 6;
+			item.knockBack = 0;
 			item.value = 100000;
 			item.rare = 8;
 			item.UseSound = SoundID.Item1;
-			item.autoReuse = true;
+			item.autoReuse = false;
 		}
 
 		public override void AddRecipes() 

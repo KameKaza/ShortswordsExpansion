@@ -13,12 +13,12 @@ namespace MoreShortswords.Items.Weapons
 
         public override void SetDefaults()
         {
-            item.damage = 100;
+            item.damage = 99;
             item.melee = true;
             item.width = 15;
             item.height = 15;
-            item.useTime = 18;
-            item.useAnimation = 18;
+            item.useTime = 16;
+            item.useAnimation = 16;
             item.useStyle = 3;
             item.knockBack = 5;
             item.value = 50000;
